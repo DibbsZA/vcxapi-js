@@ -9,7 +9,7 @@
     "tag": "git tag `cat package.json | jq -r .version`"
   },
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "query-string": "^6.8.2"
   }
